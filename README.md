@@ -1,3 +1,23 @@
+MTN.*NIX.11 Automated Environment Configuration Management
+---
+
+***Student***: [Uladzislau Charches](https://upsa.epam.com/workload/employeeView.do?employeeId=4060741400038705754#emplTab=general)
+
+# Puppet Final_Task
+
+
+**Done**
+**Additional files**
+[Vagrantfile](https://github.com/VladCharches/puppet/blob/master/Vagrantfile)
+[Script]()
+[node1.pp]()
+
+[pserver.pp]()
+
+[init.pp]()
+
+[fakter]()
+
 # This is repo for final task 
 ## Final task
 Provide single puppet module which can setup both puppet master and puppet agent current version from repositories which provided by puppetlabs for example - you delivery plan can be following:
