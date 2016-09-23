@@ -8,15 +8,18 @@ MTN.*NIX.11 Automated Environment Configuration Management
 
 **Done**
 **Additional files**
+
 [Vagrantfile](https://github.com/VladCharches/puppet/blob/master/Vagrantfile)
-[Script]()
-[node1.pp]()
 
-[pserver.pp]()
+[Script](https://github.com/VladCharches/puppet/blob/master/1.sh)
 
-[init.pp]()
+[node1.pp](https://github.com/VladCharches/puppet/blob/master/final/manifests/node1.pp)
 
-[fakter]()
+[pserver.pp](https://github.com/VladCharches/puppet/blob/master/final/manifests/pserver.pp)
+
+[init.pp](https://github.com/VladCharches/puppet/blob/master/final/manifests/init.pp)
+
+[fakter](https://github.com/VladCharches/puppet/blob/master/final/lib/facter/final.rb)
 
 # This is repo for final task 
 ## Final task
