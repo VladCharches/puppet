@@ -1,6 +1,6 @@
 # Class install node1
 #
-class final::node1 {
+class final::node1 ($version_agent = 'latest' ) {
 
   package { 'puppet-repo':
     ensure   => installed,
@@ -9,7 +9,7 @@ class final::node1 {
   }
 
   package { 'puppet-agent':
-    ensure  => 'latest',
+    ensure  => $version_agent,
     require => Package['puppet-repo'],
   }
 
