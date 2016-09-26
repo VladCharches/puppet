@@ -19,7 +19,7 @@ MTN.*NIX.11 Automated Environment Configuration Management
 
 [init.pp](https://github.com/VladCharches/puppet/blob/master/final/manifests/init.pp)
 
-[fakter](https://github.com/VladCharches/puppet/blob/master/final/lib/facter/final.rb)
+[facter](https://github.com/VladCharches/puppet/blob/master/final/lib/facter/final.rb)
 
 # This is repo for final task 
 ## Final task
